@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "sky_isles:islandjunglesmall",
+  "step": "raw_generation"
+}
