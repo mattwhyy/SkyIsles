@@ -1,6 +1,6 @@
 [Modrinth](https://modrinth.com/mod/sky-isles) | [Discord](https://discordapp.com/users/555629040455909406) | [GitHub](https://github.com/mattwhyy/SkyIsles)
 
-![project version](https://img.shields.io/modrinth/v/sky-isles) ![game versions](https://img.shields.io/modrinth/game-versions/sky-isles?color=yellow) ![project downloads](https://img.shields.io/modrinth/dt/sky-isles) ![platforms](https://img.shields.io/badge/build-fabric%20neoforge-blueviolet?style=flat&label=platforms&color=purple)
+![project version](https://img.shields.io/modrinth/v/sky-isles) ![game versions](https://img.shields.io/modrinth/game-versions/sky-isles?color=yellow) ![project downloads](https://img.shields.io/modrinth/dt/sky-isles) ![platforms](https://img.shields.io/badge/build-forge-blueviolet?style=flat&label=platforms&color=purple)
 
 # Sky Isles
 **Sky Isles** is a vanilla-style mod that expands the skyblock experience by adding a wide variety of handcrafted floating islands!
